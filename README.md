@@ -110,24 +110,26 @@ endmodule
 ~~~
 ### RTL LOGIC  
 
+## ENCODER
+![output](https://github.com/Hemapriya-2004/Experiment-08-Encoders-and-decoders-/blob/main/s1.png)
 
-
-
-
-
-
+## DECODER 
+![output](https://github.com/Hemapriya-2004/Experiment-08-Encoders-and-decoders-/blob/main/s2.png)
 
 ### TIMING DIGRAMS  
+## ENCODER
+![output](https://github.com/Hemapriya-2004/Experiment-08-Encoders-and-decoders-/blob/main/s3.png)
 
-
-
-
+## DECODER 
+![output](https://github.com/Hemapriya-2004/Experiment-08-Encoders-and-decoders-/blob/main/s4.png)
 
 ### TRUTH TABLE 
+## ENCODER
+![output](https://github.com/Hemapriya-2004/Experiment-08-Encoders-and-decoders-/blob/main/s5.png)
 
-
-
-
+## DECODER 
+![output](https://github.com/Hemapriya-2004/Experiment-08-Encoders-and-decoders-/blob/main/s6.png)
 
 
 ### RESULTS 
+Thus the program to desing encoder and decoder is completed.
